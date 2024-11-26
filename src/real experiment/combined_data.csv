@@ -1,0 +1,31 @@
+index,index_local,displayName,formattedAddress,location,zip,type
+0,0,"{'languageCode': 'en', 'text': ""Joey B's Food & Drink Manchester""}","14445 Manchester Rd, Manchester, MO 63011, USA","{'latitude': 38.593905, 'longitude': -90.519426}",63021,restaurant
+1,1,"{'languageCode': 'en', 'text': 'Texas Roadhouse'}","14870 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5925432, 'longitude': -90.54226249999999}",63021,restaurant
+2,2,"{'languageCode': 'en', 'text': 'Sugarfire 44'}","932 Meramec Station Rd, Valley Park, MO 63088, USA","{'latitude': 38.537149500000005, 'longitude': -90.4974234}",63021,restaurant
+3,3,"{'languageCode': 'en', 'text': 'Shack Breakfast & Lunch'}","13645 Big Bend Rd Suite 105, Kirkwood, MO 63122, USA","{'latitude': 38.5685722, 'longitude': -90.4778704}",63021,restaurant
+4,4,"{'languageCode': 'en', 'text': 'Original Shawarma House'}","14560 Manchester Rd Suite 29, Ballwin, MO 63011, USA","{'latitude': 38.5922906, 'longitude': -90.5268736}",63021,restaurant
+5,5,"{'languageCode': 'en', 'text': 'The Corner Pub and Grill'}","13645 Big Bend Rd Suite 105, Kirkwood, MO 63122, USA","{'latitude': 38.5680915, 'longitude': -90.4780914}",63021,restaurant
+6,6,"{'languageCode': 'en', 'text': 'QuikTrip'}","14800 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5923031, 'longitude': -90.5385572}",63021,restaurant
+7,7,"{'languageCode': 'en', 'text': 'Culver’s'}","14444 Manchester Rd, Manchester, MO 63011, USA","{'latitude': 38.5929537, 'longitude': -90.51935619999999}",63021,restaurant
+8,8,"{'languageCode': 'en', 'text': '1356 Public House'}","1356 Big Bend Rd, Ballwin, MO 63021, USA","{'latitude': 38.566538099999995, 'longitude': -90.4974469}",63021,restaurant
+9,9,"{'languageCode': 'en', 'text': 'Panera Bread'}","14646 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5924663, 'longitude': -90.5295988}",63021,restaurant
+10,10,"{'languageCode': 'en', 'text': 'Bowlero Lakeside'}","1254 Dougherty Ferry Rd, Valley Park, MO 63088, USA","{'latitude': 38.5657043, 'longitude': -90.476916}",63021,restaurant
+11,11,"{'languageCode': 'en', 'text': 'QuikTrip'}","604 Big Bend Rd, Manchester, MO 63021, USA","{'latitude': 38.5676661, 'longitude': -90.52433459999999}",63021,restaurant
+12,12,"{'languageCode': 'en', 'text': 'Starbucks'}","922 Meramec Station Rd, Valley Park, MO 63088, USA","{'latitude': 38.536508999999995, 'longitude': -90.49645199999999}",63021,restaurant
+13,13,"{'languageCode': 'en', 'text': ""Wendy's""}","14799 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5934345, 'longitude': -90.5363461}",63021,restaurant
+14,14,"{'languageCode': 'en', 'text': 'Minerva Indian Cuisine'}","14560 Manchester Rd # 9, Ballwin, MO 63011, USA","{'latitude': 38.5922651, 'longitude': -90.52559769999999}",63021,restaurant
+15,15,"{'languageCode': 'en', 'text': 'El Maguey Mexican Restaurant'}","14501 Manchester Rd, Manchester, MO 63021, USA","{'latitude': 38.5937, 'longitude': -90.52178699999999}",63021,restaurant
+16,16,"{'languageCode': 'en', 'text': 'Sauce on the Side'}","1312-1314 Big Bend Rd, Manchester, MO 63021, USA","{'latitude': 38.566705299999995, 'longitude': -90.4982452}",63021,restaurant
+17,17,"{'languageCode': 'en', 'text': 'White Castle'}","1789 Bowles Ave, Fenton, MO 63026, USA","{'latitude': 38.540929899999995, 'longitude': -90.47393389999999}",63021,restaurant
+18,18,"{'languageCode': 'en', 'text': 'El jarocho Mexican store and taqueria'}","25 Stonegate Center, Manchester, MO 63088, USA","{'latitude': 38.5670372, 'longitude': -90.49466180000002}",63021,restaurant
+19,19,"{'languageCode': 'en', 'text': 'Bob Evans'}","1 Lambert Drury Dr, Valley Park, MO 63088, USA","{'latitude': 38.53792910000001, 'longitude': -90.496642}",63021,restaurant
+20,0,"{'languageCode': 'en', 'text': 'QuikTrip'}","14800 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5923031, 'longitude': -90.5385572}",63021,gas_station
+21,1,"{'languageCode': 'en', 'text': 'QuikTrip'}","604 Big Bend Rd, Manchester, MO 63021, USA","{'latitude': 38.5676661, 'longitude': -90.52433459999999}",63021,gas_station
+22,2,"{'languageCode': 'en', 'text': 'QuikTrip'}","1907 Hawkins Rd, Fenton, MO 63026, USA","{'latitude': 38.524463999999995, 'longitude': -90.4864606}",63021,gas_station
+23,3,"{'languageCode': 'en', 'text': 'Phillips 66'}","901 Meramec Station Rd, Valley Park, MO 63088, USA","{'latitude': 38.535455299999995, 'longitude': -90.4965962}",63021,gas_station
+24,4,"{'languageCode': 'en', 'text': 'MotoMart'}","20 S Elam Ave, Valley Park, MO 63088, USA","{'latitude': 38.5436699, 'longitude': -90.4959969}",63021,gas_station
+25,5,"{'languageCode': 'en', 'text': 'Mobil'}","14807 Manchester Rd, Ballwin, MO 63011, USA","{'latitude': 38.5934539, 'longitude': -90.5371689}",63021,gas_station
+26,6,"{'languageCode': 'en', 'text': 'Circle K'}","595 Big Bend Rd, Ballwin, MO 63021, USA","{'latitude': 38.5687079, 'longitude': -90.5255054}",63021,gas_station
+27,7,"{'languageCode': 'en', 'text': 'bp'}","1 Vance Rd, Valley Park, MO 63088, USA","{'latitude': 38.5505218, 'longitude': -90.49445349999999}",63021,gas_station
+28,8,"{'languageCode': 'en', 'text': 'Phillips 66'}","859 Meramec Station Road, Valley Park, MO 63088, USA","{'latitude': 38.5673855, 'longitude': -90.49525249999999}",63021,gas_station
+29,9,"{'languageCode': 'en', 'text': 'Mobil'}","260 Vance Rd, Valley Park, MO 63088, USA","{'latitude': 38.5513341, 'longitude': -90.50389600000001}",63021,gas_station
